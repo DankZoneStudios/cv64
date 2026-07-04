@@ -557,3 +557,5 @@ extra_0E002A28_EDA5A8               = 0x0E002A28; // type:u32  segment:ni_ovl_cu
 func_0F000948_CF0558                = 0x0F000948; // type:func segment:ni_ovl_iceman
 func_0F005D30_D07B30                = 0x0F005D30; // type:func segment:ni_ovl_vampires
 func_0F005DF4_D87B84                = 0x0F005DF4; // type:func segment:ni_ovl_demon_dracula
+
+func_8015628C_D947C                 = 0x8015628C; // type:func
