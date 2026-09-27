@@ -29,3 +29,9 @@ scratch/
 # Ignored misc. files
 ctx.c
 torch.hash.yml
+
+# Local reproducible-build environment
+.venv-build/
+build-bootstrap-test/
+
+.recomp-build/
